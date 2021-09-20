@@ -1,2 +1,0 @@
-# internship
-flip robo internship
